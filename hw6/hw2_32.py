@@ -7,4 +7,3 @@ print(my_list)
 for index, value in enumerate(my_list):
         if value==user_number:
             print("Индекс элемента", user_number, ":", index)
-
